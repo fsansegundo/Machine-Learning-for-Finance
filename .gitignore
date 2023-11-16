@@ -39,5 +39,5 @@ config.rst
 /.pydevproject
 
 data/
-
-
+input
+input/
