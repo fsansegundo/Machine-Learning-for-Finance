@@ -41,3 +41,8 @@ config.rst
 data/
 input
 input/
+data/
+input/
+train/
+validation/
+*.zip
